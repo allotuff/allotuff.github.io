@@ -1,0 +1,42 @@
+body {
+background-color: #cc6600;
+font-family: 'Great Vibes', cursive;
+}
+
+h2 {
+font-size: 60px;
+}
+h1 {
+	font-size: 65px;
+}
+
+img {
+	display: block;
+	height: 500px;
+	wighth: 450px;
+}
+
+
+#tittle {
+	background: red;
+	width: 600px;
+	padding-left: 20px;
+	padding-bottom: 20px;
+}
+
+#main {
+	background: white;
+	width: 1000px;
+	padding: 20px;
+	margin-top: 20px;
+}
+
+#main p {
+	color: red;
+}
+
+#main a {
+	color: blue;
+	display: block;
+}
+
